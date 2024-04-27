@@ -1,6 +1,9 @@
-# EXP 1 : Private_Blockchain
+# EXP 1 : Creating a Private Blockchain
+
+
 ## AIM:
 To create a Private Blockchain and to add nodes, transfer ethereum to it.
+
 ## PROCEDURE: 
 1.Go to https://geth.ethereum.org/ and download the software for windows. While installing select both geth and development tools.
 
